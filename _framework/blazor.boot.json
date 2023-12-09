@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "VENWEB",
   "resources": {
-    "hash": "sha256-V/kpShAxZaso5w3ej4UD1UaVlC6VkfhXJKiWmjZY+Gw=",
+    "hash": "sha256-DM8rXipY9mdugfjaAe7YPSSXq5X2DXQ3l/C6G/lPlr8=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.h7bfqb2qwv.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -46,7 +46,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-PPjgJMbaJy7HmAFbiVQDmuLd+9vm5X5Uxk2KptWctx4=",
       "System.Text.Json.wasm": "sha256-eE8JOL7MxaeGHwUDgwML2aX5C/9/1u2DwGVYgKE/p5g=",
       "System.Text.RegularExpressions.wasm": "sha256-3TnJ+gFbcLQWd64dQi9CTds871jRDrawlfFObiJJADY=",
-      "VENWEB.wasm": "sha256-MTrmtFVbHLGo8auSHEzehc8zevx7KVQPPb2jihLgoLw="
+      "VENWEB.wasm": "sha256-tAnN8NN+4Q19/m+XhTvzuN22NZqlI2q23pGujV0xKW8="
     }
   },
   "cacheBootResources": true,
